@@ -18,7 +18,7 @@ public class E06 {
         int auxiliar = 0;
         Integer i = 0;
 
-        List<Integer> valoresNumericos = new ArrayList<>();
+        ArrayList<Integer> valoresNumericos = new ArrayList<>();
 
         while (auxiliar != 100){
 
